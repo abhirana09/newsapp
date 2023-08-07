@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/abhirana09/newsapp/static/css/main.31d6cfe0.css",
+    "main.js": "/abhirana09/newsapp/static/js/main.8aca7df1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/abhirana09/newsapp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/abhirana09/newsapp/index.html",
+    "main.8aca7df1.js.map": "/abhirana09/newsapp/static/js/main.8aca7df1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/abhirana09/newsapp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.8aca7df1.js"
+  ]
+}
